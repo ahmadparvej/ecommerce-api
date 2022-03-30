@@ -10,7 +10,9 @@
     api
 </body>
 </html>
-<script>
+<script type="module">
+    import ecom from '/public/ecom.json';
+    
     let url="https://profound-donut-01ca79.netlify.app/ecom.json"
     let data = async(url)=>{
         let res = await fetch(url);
