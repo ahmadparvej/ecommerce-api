@@ -2,48 +2,75 @@
   "posts": [
     {
       "mensData": {
-        "FootWear": [
-          {
-            "name": "ASIAN White Running Shoes",
-            "image": "https://n3.sdlcdn.com/imgs/i/z/e/230X258_sharpened/ASIAN-White-Running-Shoes-SDL803356221-1-9c5da.webp",
-            "price": "519",
-            "strikedOfprice": "669",
-            "rating": "4",
-            "id": 1
-          },
-          {
-            "name": "ASIAN Blue Running Shoes",
-            "image": "https://n4.sdlcdn.com/imgs/i/e/r/230X258_sharpened/ASIAN-Blue-Running-Shoes-SDL243004409-1-d0751.jpeg",
-            "price": "599",
-            "strikedOfprice": "999",
-            "rating": "4",
-            "id": 2
-          },
-          {
-            "name": "Casual Black Shoes",
-            "image": "https://n3.sdlcdn.com/imgs/j/o/n/Campus-Black-Casual-Shoes-SDL266461164-4-428e2.jpeg",
-            "price": "799",
-            "strikedOfprice": "999",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "ASIAN POPCORN-02 Gray Running Shoes",
-            "image": "https://n3.sdlcdn.com/imgs/j/o/n/Campus-Black-Casual-Shoes-SDL266461164-4-428e2.jpeg",
-            "price": "799",
-            "strikedOfprice": "999",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "ASIAN POPCORN-02 Gray Running Shoes",
-            "image": "https://n3.sdlcdn.com/imgs/j/o/n/Campus-Black-Casual-Shoes-SDL266461164-4-428e2.jpeg",
-            "price": "799",
-            "strikedOfprice": "999",
-            "rating": "4.5",
-            "id": 3
-          }
-        ],
+        "FootWear": {
+          "sports & shoes": [
+            {
+              "name": "ASIAN White Running Shoes",
+              "image": "https://n3.sdlcdn.com/imgs/i/z/e/230X258_sharpened/ASIAN-White-Running-Shoes-SDL803356221-1-9c5da.webp",
+              "price": "519",
+              "strikedOfprice": "669",
+              "rating": "4",
+              "id": 1,
+              "size": "6"
+            },
+            {
+              "name": "Action Black Running Shoes",
+              "image": "https://n4.sdlcdn.com/imgs/j/u/0/Action-Black-Running-Shoes-SDL563825251-1-c3725.jpg",
+              "price": "625",
+              "strikedOfprice": "669",
+              "rating": "5",
+              "id": 1,
+              "size": "6"
+            },
+            {
+              "name": "ASIAN Blue Running Shoes",
+              "image": "https://n4.sdlcdn.com/imgs/i/e/r/230X258_sharpened/ASIAN-Blue-Running-Shoes-SDL243004409-1-d0751.jpeg",
+              "price": "599",
+              "strikedOfprice": "999",
+              "rating": "4",
+              "id": 2,
+              "size": "8"
+            },
+            {
+              "name": "Casual Black Shoes",
+              "image": "https://n3.sdlcdn.com/imgs/j/o/n/Campus-Black-Casual-Shoes-SDL266461164-4-428e2.jpeg",
+              "price": "799",
+              "strikedOfprice": "999",
+              "rating": "4.5",
+              "id": 3,
+              "size": "7"
+            },
+            {
+              "name": "ASIAN POPCORN-02 Gray Running Shoes",
+              "image": "https://n3.sdlcdn.com/imgs/j/o/n/Campus-Black-Casual-Shoes-SDL266461164-4-428e2.jpeg",
+              "price": "799",
+              "strikedOfprice": "999",
+              "rating": "4.5",
+              "id": 3,
+              "size": "6"
+            },
+            {
+              "name": "ASIAN POPCORN-02 Gray Running Shoes",
+              "image": "https://n3.sdlcdn.com/imgs/j/o/n/Campus-Black-Casual-Shoes-SDL266461164-4-428e2.jpeg",
+              "price": "799",
+              "strikedOfprice": "999",
+              "rating": "4.5",
+              "id": 3,
+              "size": "8"
+            }
+          ],
+          "casual shoes": [
+            {
+              "name": "ASIAN White Running Shoes",
+              "image": "https://n3.sdlcdn.com/imgs/i/z/e/230X258_sharpened/ASIAN-White-Running-Shoes-SDL803356221-1-9c5da.webp",
+              "price": "519",
+              "strikedOfprice": "669",
+              "rating": "4",
+              "id": 1,
+              "size": "6"
+            }
+          ]
+        },
         "Clothing": {
           "tshirt": [
             {
@@ -52,7 +79,8 @@
               "price": "349",
               "strikedOfprice": "669",
               "rating": "4",
-              "id": 1
+              "id": 1,
+              "size": "M"
             },
             {
               "name": "Veirdo - 100% Cotton Regular Fit Blue Men's T-Shirt ( Pack of 1 )",
