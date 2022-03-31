@@ -222,7 +222,10 @@
           "id": 1,
           "size": "6"
         }
-      ]
+      ],
+      "Formal Shoes": [],
+      "Loafers": [],
+      "Sneakers": []
     },
     "Clothing": {
       "tshirt": [
@@ -528,703 +531,725 @@
           "id": 3
         }
       ],
-      "Trouser & Chinos":[]
+      "Trouser & Chinos": []
+    },
+    "Winter wear": {
+      "Jackets": [],
+      "Sweatshirts": [],
+      "Sweaters": [],
+      "Thermals": []
+    },
+    "Bags & Luggage": {
+      "BagPacks": [],
+      "Laptop Bags": [],
+      "Luggage & Suuitcase": [],
+      "Travel Accessories": []
     }
   },
   "Women's Fashion": {
     "icon": "https://i2.sdlcdn.com/img/leftnavicon09/30x30home_living2.png",
     "title": "Women's Fashion",
-    "Clothing":
-      {
-        "saree": [
-          {
-            "name": "Bhakarwadi - Silk Blend Black With Blouse Piece ( Pack of 1 )",
-            "image": "https://n2.sdlcdn.com/imgs/k/b/m/Bhakarwadi-Black-Art-Silk-Saree-SDL762653447-1-eb79c.jpg",
-            "price": "329",
-            "strikedOfprice": "1799",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Handloom Cotton Silk Yellow With Blouse Piece Saree -",
-            "image": "https://n3.sdlcdn.com/imgs/k/e/s/Handloom-Cotton-Silk-Yellow-With-SDL465148751-1-3f4ad.jpg",
-            "price": "600",
-            "strikedOfprice": "1200",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Bhakarwadi - Silk Blend Multicolor With Blouse Piece ( Pack of 1 )",
-            "image": "https://n2.sdlcdn.com/imgs/j/w/o/Bhakarwadi-Red-Art-Silk-Saree-SDL564939422-1-fdc5b.jpg",
-            "price": "349",
-            "strikedOfprice": "700",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Gazal Fashions - Cotton Multicolor With Blouse Piece ( Pack of 1 )",
-            "image": "https://n3.sdlcdn.com/imgs/j/p/b/Gazal-Fashions-White-Black-Cotton-SDL433619964-1-1f62f.jpeg",
-            "price": "349",
-            "strikedOfprice": "2000",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Hritika Pink Georgette Saree - Single",
-            "image": "https://n3.sdlcdn.com/imgs/k/c/s/Hritika-Pink-Georgette-Saree-Single-SDL546550294-1-89086.jpg",
-            "price": "280",
-            "strikedOfprice": "800",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Gazal Fashions - Silk Blend Maroon With Blouse Piece ( Pack of 1 )",
-            "image": "https://n3.sdlcdn.com/imgs/j/w/4/Gazal-Fashions-Maroon-Lycra-Saree-SDL631196256-1-8389d.jpeg",
-            "price": "469",
-            "strikedOfprice": "900",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Bhakarwadi - Cotton Blend Multicolor With Blouse Piece ( Pack of 1 )",
-            "image": "https://n4.sdlcdn.com/imgs/j/t/b/Bhakarwadi-Green-Beige-Khadi-Saree-SDL323903618-1-0b7f0.jpeg",
-            "price": "649",
-            "strikedOfprice": "1200",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Gazal Fashions - Chiffon Blue With Blouse Piece ( Pack of 1 )",
-            "image": "https://n1.sdlcdn.com/imgs/k/b/j/Gazal-Fashions-Blue-Green-Chiffon-SDL031723521-1-cb8e5.jpg",
-            "price": "539",
-            "strikedOfprice": "1200",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Hritika Yellow Silk Blend Saree - Single",
-            "image": "https://n4.sdlcdn.com/imgs/k/b/d/Hritika-Yellow-Silk-Blend-Saree-SDL632293763-1-7b374.jpg",
-            "price": "575",
-            "strikedOfprice": "1200",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Sherine - Silk Blend White With Blouse Piece ( Pack of 1 )",
-            "image": "https://n3.sdlcdn.com/imgs/j/x/u/Sherine-White-Art-Silk-Saree-SDL467237288-1-6ea26.jpeg",
-            "price": "299",
-            "strikedOfprice": "1250",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Alexplum - Silk Blend Red With Stitched Blouse ( Pack of 1 )",
-            "image": "https://n1.sdlcdn.com/imgs/j/x/w/Alexplum-Red-Bhagalpuri-Silk-Saree-SDL491206765-1-20aaa.jpeg",
-            "price": "349",
-            "strikedOfprice": "1200",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Gazal Fashions - Banarasi Silk Multicolor With Blouse Piece ( Pack of 1 )",
-            "image": "https://n3.sdlcdn.com/imgs/j/r/y/Gazal-Fashions-Maroon-Beige-Banarasi-SDL246219847-1-96066.jpg",
-            "price": "526",
-            "strikedOfprice": "1200",
-            "rating": "4.5",
-            "id": 3
-          }
-        ],
-        "salwar suit": [
-          {
-            "name": "Miss Ethnik Maroon Georgette Pakistani Semi-Stitched Suit - Single",
-            "image": "https://n1.sdlcdn.com/imgs/k/d/a/Miss-Ethnik-Maroon-Georgette-Pakistani-SDL392726751-1-a4817.jpg",
-            "price": "1799",
-            "strikedOfprice": "2500",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Panihari White Cotton Unstitched Dress Material",
-            "image": "https://n2.sdlcdn.com/imgs/j/s/1/Panihari-White-Cotton-Unstitched-Dress-SDL859259320-1-26ffc.jpeg",
-            "price": "599",
-            "strikedOfprice": "1200",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Kkrish Beige Cotton Dress Material",
-            "image": "https://n4.sdlcdn.com/imgs/j/i/k/Kkrish-Beige-Cotton-Dress-Material-SDL442521966-1-44c03.jpeg",
-            "price": "519",
-            "strikedOfprice": "800",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Panihari Creations Blue,Red Cotton Unstitched Dress Material - Single",
-            "image": "https://n1.sdlcdn.com/imgs/j/v/t/Panihari-Creations-Blue-Red-Cotton-SDL908712887-1-15e39.jpeg",
-            "price": "439",
-            "strikedOfprice": "700",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Nityapal Pink Cotton Unstitched Dress Material -",
-            "image": "https://n2.sdlcdn.com/imgs/j/y/g/Nityapal-Pink-Cotton-Unstitched-Dress-SDL428841737-1-b4e16.jpg",
-            "price": "599",
-            "strikedOfprice": "2500",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "shree jeenmata collection Black Cotton Unstitched Dress Material",
-            "image": "https://n2.sdlcdn.com/imgs/j/q/2/shree-jeenmata-collection-Black-Cotton-SDL009486378-1-ee4a3.jpeg",
-            "price": "799",
-            "strikedOfprice": "1800",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "shree jeenmata collection Brown Crepe Dress Material",
-            "image": "https://n1.sdlcdn.com/imgs/j/d/w/shree-jeenmata-collection-Brown-Crepe-SDL263605591-1-47846.jpg",
-            "price": "439",
-            "strikedOfprice": "800",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Sherine Green Cotton Unstitched Dress Material",
-            "image": "https://n2.sdlcdn.com/imgs/j/p/6/Sherine-Green-Cotton-Unstitched-Dress-SDL673580809-1-e66e7.jpg",
-            "price": "649",
-            "strikedOfprice": "1250",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "shree jeenmata collection Orange Cotton Unstitched Dress Material - Single",
-            "image": "https://n4.sdlcdn.com/imgs/k/c/8/shree-jeenmata-collection-Orange-Cotton-SDL643082931-1-a713f.jpg",
-            "price": "849",
-            "strikedOfprice": "1200",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Sherine Pink Crepe Unstitched Dress Material - Single",
-            "image": "https://n2.sdlcdn.com/imgs/j/w/0/Sherine-Pink-Crepe-Unstitched-Dress-SDL401426970-1-fdbc0.jpeg",
-            "price": "347",
-            "strikedOfprice": "800",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "MANJULA SAREE Beige Banarasi Silk Unstitched Dress Material",
-            "image": "https://n1.sdlcdn.com/imgs/j/t/9/MANJULA-SAREE-Beige-Banarasi-Silk-SDL788935809-1-a6440.jpeg",
-            "price": "800",
-            "strikedOfprice": "1200",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Sherine Green Crepe Unstitched Dress Material",
-            "image": "https://n1.sdlcdn.com/imgs/j/r/1/Sherine-Green-Crepe-Unstitched-Dress-SDL430068151-1-87d42.jpg",
-            "price": "750",
-            "strikedOfprice": "2500",
-            "rating": "4.5",
-            "id": 3
-          }
-        ],
-        "lehngas": [
-          {
-            "name": "Shree But Bhavani Creation Blue Tussar Silk Unstitched Semi Stitched Lehenga",
-            "image": "https://n4.sdlcdn.com/imgs/k/d/9/Shree-But-Bhavani-Creation-Blue-SDL687947202-1-ee450.jpeg",
-            "price": "799",
-            "strikedOfprice": "1200",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Lady Shopi Blue Velvet Chaniya Choli Semi Stitched Lehenga",
-            "image": "https://n4.sdlcdn.com/imgs/k/b/m/Lady-Shopi-Blue-Velvet-Chaniya-SDL069972842-1-09775.jpg",
-            "price": "600",
-            "strikedOfprice": "1600",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "MecZZON Blue Taffeta Chaniya Choli Semi Stitched Lehenga",
-            "image": "https://n4.sdlcdn.com/imgs/j/t/v/MecZZON-Blue-Taffeta-Chaniya-Choli-SDL802321411-1-69988.jpg",
-            "price": "780",
-            "strikedOfprice": "1200",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Lady Shopi Red Velvet Chaniya Choli Semi Stitched Lehenga",
-            "image": "https://n4.sdlcdn.com/imgs/k/b/m/Lady-Shopi-Red-Velvet-Chaniya-SDL152248626-1-d214c.jpg",
-            "price": "1200",
-            "strikedOfprice": "2500",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Maroosh Pink Net Unstitched Semi Stitched Lehenga Single",
-            "image": "https://n3.sdlcdn.com/imgs/k/c/s/Maroosh-Pink-Net-Unstitched-Semi-SDL030634766-1-483a9.jpg",
-            "price": "1150",
-            "strikedOfprice": "2350",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Aika Black Net Chaniya Choli Semi Stitched Lehenga Single",
-            "image": "https://n1.sdlcdn.com/imgs/k/d/7/Aika-Black-Net-Chaniya-Choli-SDL265173587-1-f7a38.jpeg",
-            "price": "800",
-            "strikedOfprice": "1300",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "ULTRINA Pink Organza Unstitched Semi Stitched Lehenga Single",
-            "image": "https://n3.sdlcdn.com/imgs/j/v/q/ULTRINA-Pink-Organza-Unstitched-Semi-SDL471103490-1-6b70c.jpg",
-            "price": "750",
-            "strikedOfprice": "900",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "DWIDEN Blue Taffeta Chaniya",
-            "image": "https://n2.sdlcdn.com/imgs/j/t/q/DWIDEN-Blue-Taffeta-Chaniya-Choli-SDL558312298-1-835b9.jpg",
-            "price": "1350",
-            "strikedOfprice": "2350",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "KV Fashion Blue Velvet Chaniya",
-            "image": "https://n3.sdlcdn.com/imgs/k/b/t/KV-Fashion-Blue-Velvet-Chaniya-SDL200601942-1-1a117.jpg",
-            "price": "700",
-            "strikedOfprice": "1500",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Shital Fashion World White Net",
-            "image": "https://n1.sdlcdn.com/imgs/k/e/d/Shital-Fashion-World-White-Net-SDL319959856-1-cfcc9.jpg",
-            "price": "650",
-            "strikedOfprice": "1200",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Zistatva Blue,Red,Purple",
-            "image": "https://n4.sdlcdn.com/imgs/j/n/l/Zistatva-Blue-Red-Purple-Taffeta-SDL476920420-1-51553.jpg",
-            "price": "870",
-            "strikedOfprice": "1300",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "MecZZON Maroon Taffeta",
-            "image": "https://n2.sdlcdn.com/imgs/j/t/v/MecZZON-Maroon-Taffeta-Chaniya-Choli-SDL245195555-1-a0174.jpg",
-            "price": "600",
-            "strikedOfprice": "1200",
-            "rating": "4.5",
-            "id": 3
-          }
-        ],
-        "jeans": [
-          {
-            "name": "Sequin Crafts Cotton Single",
-            "image": "https://n3.sdlcdn.com/imgs/j/r/u/Sequin-Crafts-Cotton-Single-Harem-SDL175107354-1-d2c41.jpg",
-            "price": "799",
-            "strikedOfprice": "1200",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "PT LEGGINGS Satin Single",
-            "image": "https://n1.sdlcdn.com/imgs/j/t/l/PT-LEGGINGS-Satin-Single-Leggings-SDL991402614-1-11d6e.jpg",
-            "price": "600",
-            "strikedOfprice": "1600",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "shri hub Cotton Single Salwar",
-            "image": "https://n1.sdlcdn.com/imgs/j/l/5/shri-hub-Cotton-Single-Salwar-SDL211891489-1-7770f.jpeg",
-            "price": "780",
-            "strikedOfprice": "1200",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "PT LEGGINGS Satin Single",
-            "image": "https://n2.sdlcdn.com/imgs/j/u/t/PT-LEGGINGS-Satin-Leggings-Single-SDL538822686-1-9cb84.jpeg",
-            "price": "1200",
-            "strikedOfprice": "2500",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "shri hub Cotton Semi Patiala",
-            "image": "https://n1.sdlcdn.com/imgs/k/a/8/shri-hub-Cotton-Semi-Patiala-SDL207094736-1-3fb6c.jpg",
-            "price": "1150",
-            "strikedOfprice": "2350",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Robin Romeo Viscose Single",
-            "image": "https://n3.sdlcdn.com/imgs/j/o/w/Robin-Romeo-Viscose-Single-Leggings-SDL082559013-1-9d82a.jpeg",
-            "price": "800",
-            "strikedOfprice": "1300",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "shri hub Cotton Single Salwar",
-            "image": "https://n1.sdlcdn.com/imgs/j/p/e/shri-hub-Cotton-Single-Salwar-SDL326916172-1-2df87.jpeg",
-            "price": "750",
-            "strikedOfprice": "900",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "avinzo Cotton Patiala - Single",
-            "image": "https://n4.sdlcdn.com/imgs/j/y/b/avinzo-Cotton-Patiala-Single-SDL221675741-1-93921.jpg",
-            "price": "1350",
-            "strikedOfprice": "2350",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "ANADI Cotton Leggings - Single",
-            "image": "https://n2.sdlcdn.com/imgs/j/x/u/ANADI-Cotton-Leggings-Single-SDL216972630-1-0ff8e.png",
-            "price": "700",
-            "strikedOfprice": "1500",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "avinzo Cotton Single Semi",
-            "image": "https://n4.sdlcdn.com/imgs/j/b/0/avinzo-Cotton-Single-Semi-Patiala-SDL006049318-1-930ff.jpg",
-            "price": "650",
-            "strikedOfprice": "1200",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "avinzo Cotton Single Semi",
-            "image": "https://n2.sdlcdn.com/imgs/j/b/0/avinzo-Cotton-Single-Semi-Patiala-SDL083739661-1-da5f0.jpg",
-            "price": "870",
-            "strikedOfprice": "1300",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "HomeShop.Fashion Polyester",
-            "image": "https://n4.sdlcdn.com/imgs/j/w/k/HomeShop-Fashion-Polyester-Leggings-Single-SDL514324002-1-43ea2.jpeg",
-            "price": "600",
-            "strikedOfprice": "1200",
-            "rating": "4.5",
-            "id": 3
-          }
-        ]
-      },
-    "Footwear":
-      {
-        "heels":[
-          {
-            "name": "Do Bhai Black Block Heels",
-            "image": "https://n4.sdlcdn.com/imgs/k/c/h/Do-Bhai-Black-Block-Heels-SDL584528583-1-29a97.jpeg",
-            "price": "799",
-            "strikedOfprice": "1200",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Do Bhai Gold Wedges Heels",
-            "image": "https://n3.sdlcdn.com/imgs/j/s/w/Do-Bhai-Gold-Wedges-Heels-SDL717670215-1-fa587.jpg",
-            "price": "600",
-            "strikedOfprice": "1600",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Street Style Store White",
-            "image": "https://n4.sdlcdn.com/imgs/j/w/a/Street-Style-Store-White-Block-SDL676834294-1-668da.jpg",
-            "price": "780",
-            "strikedOfprice": "1200",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Shoetopia Gray Platforms Heels",
-            "image": "https://n1.sdlcdn.com/imgs/k/b/b/Shoetopia-Gray-Platforms-Heels-SDL179920023-1-81721.jpg",
-            "price": "1200",
-            "strikedOfprice": "2500",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Blackwood Red Block Heels",
-            "image": "https://n3.sdlcdn.com/imgs/b/g/c/Blackwood-Red-Block-Heels-SDL586121384-1-caea6.jpg",
-            "price": "1150",
-            "strikedOfprice": "2350",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Feel It Gold Wedges Heels",
-            "image": "https://n4.sdlcdn.com/imgs/h/w/o/Feel-It-Gold-Wedges-Heels-SDL899242562-1-4a631.jpg",
-            "price": "800",
-            "strikedOfprice": "1300",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Street Style Store Beige",
-            "image": "https://n3.sdlcdn.com/imgs/j/y/p/Street-Style-Store-Beige-Block-SDL312948132-1-3599c.jpeg",
-            "price": "750",
-            "strikedOfprice": "900",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Rimezs Apricot Wedges Heels",
-            "image": "https://n2.sdlcdn.com/imgs/k/d/y/Rimezs-Apricot-Wedges-Heels-SDL918384275-1-9ee55.JPG",
-            "price": "1350",
-            "strikedOfprice": "2350",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Khadim's Navy Wedges Heels",
-            "image": "https://n1.sdlcdn.com/imgs/j/e/v/Khadim-s-Navy-Wedges-Heels-SDL544481358-1-e6cac.jpg",
-            "price": "700",
-            "strikedOfprice": "1500",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Rimezs Maroon Wedges Heels",
-            "image": "https://n1.sdlcdn.com/imgs/j/w/1/Rimezs-Maroon-Wedges-Heels-SDL867451393-1-fa941.jpg",
-            "price": "650",
-            "strikedOfprice": "1200",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Do Bhai Brown Wedges Heels",
-            "image": "https://n1.sdlcdn.com/imgs/j/x/x/Do-Bhai-Brown-Wedges-Heels-SDL915386484-1-c2d5e.jpg",
-            "price": "870",
-            "strikedOfprice": "1300",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Shoetopia Yellow Platforms Heels",
-            "image": "https://n3.sdlcdn.com/imgs/k/b/b/Shoetopia-Yellow-Platforms-Heels-SDL188041459-1-a58f7.jpg",
-            "price": "600",
-            "strikedOfprice": "1200",
-            "rating": "4.5",
-            "id": 3
-          }
-        ],
-        "flats & sandals": [
-          {
-            "name": "Street Style Store White Flats",
-            "image": "https://n4.sdlcdn.com/imgs/k/d/9/Street-Style-Store-White-Flats-SDL678817112-1-87e59.jpg",
-            "price": "799",
-            "strikedOfprice": "1200",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Aerowalk Brown Flats",
-            "image": "https://n2.sdlcdn.com/imgs/j/c/8/Aerowalk-Brown-Flats-SDL882621662-1-871cf.jpg",
-            "price": "600",
-            "strikedOfprice": "1600",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Inblu Black Flats",
-            "image": "https://n1.sdlcdn.com/imgs/i/6/9/Inblu-Black-Flats-SDL233438282-1-e1608.jpg",
-            "price": "780",
-            "strikedOfprice": "1200",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Sayera Black Flats",
-            "image": "https://n1.sdlcdn.com/imgs/j/u/q/Sayera-Black-Flats-SDL644562851-1-44fbe.jpg",
-            "price": "1200",
-            "strikedOfprice": "2500",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Aerowalk Black Flats",
-            "image": "https://n2.sdlcdn.com/imgs/j/f/g/Aerowalk-Black-Flats-SDL897205970-1-d4a17.jpeg",
-            "price": "1150",
-            "strikedOfprice": "2350",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "WALK N STYLE COLLECTION",
-            "image": "https://n2.sdlcdn.com/imgs/j/r/j/WALK-N-STYLE-COLLECTION-Beige-SDL669004326-1-7b871.jpg",
-            "price": "800",
-            "strikedOfprice": "1300",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Aerowalk Black Flats",
-            "image": "https://n1.sdlcdn.com/imgs/j/o/3/Aerowalk-Black-Flats-SDL757747069-1-86dfa.jpg",
-            "price": "750",
-            "strikedOfprice": "900",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Street Style Store Gold Flats",
-            "image": "https://n2.sdlcdn.com/imgs/j/x/6/Street-Style-Store-Gold-Flats-SDL338004288-1-b3c66.jpg",
-            "price": "1350",
-            "strikedOfprice": "2350",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Aerowalk Blue Flats",
-            "image": "https://n4.sdlcdn.com/imgs/j/r/a/Aerowalk-Blue-Flats-SDL037589925-3-6150b.jpg",
-            "price": "700",
-            "strikedOfprice": "1500",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "RAGE GAZE Green Flats",
-            "image": "https://n1.sdlcdn.com/imgs/k/a/7/RAGE-GAZE-Green-Flats-SDL753302011-1-7f3c0.png",
-            "price": "650",
-            "strikedOfprice": "1200",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Inblu Tan Flats",
-            "image": "https://n4.sdlcdn.com/imgs/j/q/7/Inblu-Tan-Flats-SDL590172766-1-50ae5.jpeg",
-            "price": "870",
-            "strikedOfprice": "1300",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Aerowalk Red Flats",
-            "image": "https://n3.sdlcdn.com/imgs/j/r/x/Aerowalk-Red-Flats-SDL332688587-1-6e843.jpeg",
-            "price": "600",
-            "strikedOfprice": "1200",
-            "rating": "4.5",
-            "id": 3
-          }
-        ],
-        "slipper & flipflop": [
-          {
-            "name": "Ryan Overseas White Slippers",
-            "image": "https://n2.sdlcdn.com/imgs/j/x/i/Ryan-Overseas-White-Slippers-SDL296059117-1-1467b.jpg",
-            "price": "799",
-            "strikedOfprice": "1200",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Squash Maroon Slippers",
-            "image": "https://n3.sdlcdn.com/imgs/j/w/o/Squash-Maroon-Slippers-SDL665738203-1-aa917.jpg",
-            "price": "600",
-            "strikedOfprice": "1600",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "PKKART Multi Color Pack of 2",
-            "image": "https://n3.sdlcdn.com/imgs/j/y/v/PKKART-Multi-Color-Slippers-SDL248293942-1-6fd24.jpg",
-            "price": "780",
-            "strikedOfprice": "1200",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "DOCTOR EXTRA SOFT Black",
-            "image": "https://n2.sdlcdn.com/imgs/j/l/m/DOCTOR-EXTRA-SOFT-Black-Slippers-SDL034825726-1-c863e.jpg",
-            "price": "1200",
-            "strikedOfprice": "2500",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Ailtino Red Slippers",
-            "image": "https://n1.sdlcdn.com/imgs/j/t/b/Ailtino-Red-Slippers-SDL335915655-1-b19fb.jpeg",
-            "price": "1150",
-            "strikedOfprice": "2350",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Paragon Pink Slippers",
-            "image": "https://n3.sdlcdn.com/imgs/j/x/7/Paragon-Pink-Slippers-SDL720172784-1-f921a.jpg",
-            "price": "800",
-            "strikedOfprice": "1300",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Squash Tan Slippers",
-            "image": "https://n2.sdlcdn.com/imgs/j/x/c/Squash-Tan-Slippers-SDL537183736-1-302ab.jpeg",
-            "price": "750",
-            "strikedOfprice": "900",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "DOCTOR EXTRA SOFT Blue Slides",
-            "image": "https://n2.sdlcdn.com/imgs/k/c/w/DOCTOR-EXTRA-SOFT-Blue-Slides-SDL517204461-1-d9ccb.jpg",
-            "price": "1350",
-            "strikedOfprice": "2350",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Inblu Black Slippers",
-            "image": "https://n2.sdlcdn.com/imgs/j/e/z/Inblu-Black-Slippers-SDL581767791-1-e964f.jpg",
-            "price": "700",
-            "strikedOfprice": "1500",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "PKKART Multi Color Pack of 2",
-            "image": "https://n1.sdlcdn.com/imgs/j/v/j/PKKART-Multi-Color-Slippers-SDL790290648-1-b4e0d.jpg",
-            "price": "650",
-            "strikedOfprice": "1200",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "DOCTOR EXTRA SOFT Olive Slides",
-            "image": "https://n1.sdlcdn.com/imgs/k/c/w/DOCTOR-EXTRA-SOFT-Olive-Slides-SDL560549818-1-10be3.jpg",
-            "price": "870",
-            "strikedOfprice": "1300",
-            "rating": "4.5",
-            "id": 3
-          },
-          {
-            "name": "Do Bhai Blue Slides",
-            "image": "https://n2.sdlcdn.com/imgs/j/p/3/Do-Bhai-Blue-Slides-SDL810654226-1-e2aac.jpg",
-            "price": "600",
-            "strikedOfprice": "1200",
-            "rating": "4.5",
-            "id": 3
-          }
-        ]
-      }
+    "Clothing": {
+      "saree": [
+        {
+          "name": "Bhakarwadi - Silk Blend Black With Blouse Piece ( Pack of 1 )",
+          "image": "https://n2.sdlcdn.com/imgs/k/b/m/Bhakarwadi-Black-Art-Silk-Saree-SDL762653447-1-eb79c.jpg",
+          "price": "329",
+          "strikedOfprice": "1799",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Handloom Cotton Silk Yellow With Blouse Piece Saree -",
+          "image": "https://n3.sdlcdn.com/imgs/k/e/s/Handloom-Cotton-Silk-Yellow-With-SDL465148751-1-3f4ad.jpg",
+          "price": "600",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Bhakarwadi - Silk Blend Multicolor With Blouse Piece ( Pack of 1 )",
+          "image": "https://n2.sdlcdn.com/imgs/j/w/o/Bhakarwadi-Red-Art-Silk-Saree-SDL564939422-1-fdc5b.jpg",
+          "price": "349",
+          "strikedOfprice": "700",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Gazal Fashions - Cotton Multicolor With Blouse Piece ( Pack of 1 )",
+          "image": "https://n3.sdlcdn.com/imgs/j/p/b/Gazal-Fashions-White-Black-Cotton-SDL433619964-1-1f62f.jpeg",
+          "price": "349",
+          "strikedOfprice": "2000",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Hritika Pink Georgette Saree - Single",
+          "image": "https://n3.sdlcdn.com/imgs/k/c/s/Hritika-Pink-Georgette-Saree-Single-SDL546550294-1-89086.jpg",
+          "price": "280",
+          "strikedOfprice": "800",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Gazal Fashions - Silk Blend Maroon With Blouse Piece ( Pack of 1 )",
+          "image": "https://n3.sdlcdn.com/imgs/j/w/4/Gazal-Fashions-Maroon-Lycra-Saree-SDL631196256-1-8389d.jpeg",
+          "price": "469",
+          "strikedOfprice": "900",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Bhakarwadi - Cotton Blend Multicolor With Blouse Piece ( Pack of 1 )",
+          "image": "https://n4.sdlcdn.com/imgs/j/t/b/Bhakarwadi-Green-Beige-Khadi-Saree-SDL323903618-1-0b7f0.jpeg",
+          "price": "649",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Gazal Fashions - Chiffon Blue With Blouse Piece ( Pack of 1 )",
+          "image": "https://n1.sdlcdn.com/imgs/k/b/j/Gazal-Fashions-Blue-Green-Chiffon-SDL031723521-1-cb8e5.jpg",
+          "price": "539",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Hritika Yellow Silk Blend Saree - Single",
+          "image": "https://n4.sdlcdn.com/imgs/k/b/d/Hritika-Yellow-Silk-Blend-Saree-SDL632293763-1-7b374.jpg",
+          "price": "575",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Sherine - Silk Blend White With Blouse Piece ( Pack of 1 )",
+          "image": "https://n3.sdlcdn.com/imgs/j/x/u/Sherine-White-Art-Silk-Saree-SDL467237288-1-6ea26.jpeg",
+          "price": "299",
+          "strikedOfprice": "1250",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Alexplum - Silk Blend Red With Stitched Blouse ( Pack of 1 )",
+          "image": "https://n1.sdlcdn.com/imgs/j/x/w/Alexplum-Red-Bhagalpuri-Silk-Saree-SDL491206765-1-20aaa.jpeg",
+          "price": "349",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Gazal Fashions - Banarasi Silk Multicolor With Blouse Piece ( Pack of 1 )",
+          "image": "https://n3.sdlcdn.com/imgs/j/r/y/Gazal-Fashions-Maroon-Beige-Banarasi-SDL246219847-1-96066.jpg",
+          "price": "526",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3
+        }
+      ],
+      "salwar suit": [
+        {
+          "name": "Miss Ethnik Maroon Georgette Pakistani Semi-Stitched Suit - Single",
+          "image": "https://n1.sdlcdn.com/imgs/k/d/a/Miss-Ethnik-Maroon-Georgette-Pakistani-SDL392726751-1-a4817.jpg",
+          "price": "1799",
+          "strikedOfprice": "2500",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Panihari White Cotton Unstitched Dress Material",
+          "image": "https://n2.sdlcdn.com/imgs/j/s/1/Panihari-White-Cotton-Unstitched-Dress-SDL859259320-1-26ffc.jpeg",
+          "price": "599",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Kkrish Beige Cotton Dress Material",
+          "image": "https://n4.sdlcdn.com/imgs/j/i/k/Kkrish-Beige-Cotton-Dress-Material-SDL442521966-1-44c03.jpeg",
+          "price": "519",
+          "strikedOfprice": "800",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Panihari Creations Blue,Red Cotton Unstitched Dress Material - Single",
+          "image": "https://n1.sdlcdn.com/imgs/j/v/t/Panihari-Creations-Blue-Red-Cotton-SDL908712887-1-15e39.jpeg",
+          "price": "439",
+          "strikedOfprice": "700",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Nityapal Pink Cotton Unstitched Dress Material -",
+          "image": "https://n2.sdlcdn.com/imgs/j/y/g/Nityapal-Pink-Cotton-Unstitched-Dress-SDL428841737-1-b4e16.jpg",
+          "price": "599",
+          "strikedOfprice": "2500",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "shree jeenmata collection Black Cotton Unstitched Dress Material",
+          "image": "https://n2.sdlcdn.com/imgs/j/q/2/shree-jeenmata-collection-Black-Cotton-SDL009486378-1-ee4a3.jpeg",
+          "price": "799",
+          "strikedOfprice": "1800",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "shree jeenmata collection Brown Crepe Dress Material",
+          "image": "https://n1.sdlcdn.com/imgs/j/d/w/shree-jeenmata-collection-Brown-Crepe-SDL263605591-1-47846.jpg",
+          "price": "439",
+          "strikedOfprice": "800",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Sherine Green Cotton Unstitched Dress Material",
+          "image": "https://n2.sdlcdn.com/imgs/j/p/6/Sherine-Green-Cotton-Unstitched-Dress-SDL673580809-1-e66e7.jpg",
+          "price": "649",
+          "strikedOfprice": "1250",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "shree jeenmata collection Orange Cotton Unstitched Dress Material - Single",
+          "image": "https://n4.sdlcdn.com/imgs/k/c/8/shree-jeenmata-collection-Orange-Cotton-SDL643082931-1-a713f.jpg",
+          "price": "849",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Sherine Pink Crepe Unstitched Dress Material - Single",
+          "image": "https://n2.sdlcdn.com/imgs/j/w/0/Sherine-Pink-Crepe-Unstitched-Dress-SDL401426970-1-fdbc0.jpeg",
+          "price": "347",
+          "strikedOfprice": "800",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "MANJULA SAREE Beige Banarasi Silk Unstitched Dress Material",
+          "image": "https://n1.sdlcdn.com/imgs/j/t/9/MANJULA-SAREE-Beige-Banarasi-Silk-SDL788935809-1-a6440.jpeg",
+          "price": "800",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Sherine Green Crepe Unstitched Dress Material",
+          "image": "https://n1.sdlcdn.com/imgs/j/r/1/Sherine-Green-Crepe-Unstitched-Dress-SDL430068151-1-87d42.jpg",
+          "price": "750",
+          "strikedOfprice": "2500",
+          "rating": "4.5",
+          "id": 3
+        }
+      ],
+      "lehngas": [
+        {
+          "name": "Shree But Bhavani Creation Blue Tussar Silk Unstitched Semi Stitched Lehenga",
+          "image": "https://n4.sdlcdn.com/imgs/k/d/9/Shree-But-Bhavani-Creation-Blue-SDL687947202-1-ee450.jpeg",
+          "price": "799",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Lady Shopi Blue Velvet Chaniya Choli Semi Stitched Lehenga",
+          "image": "https://n4.sdlcdn.com/imgs/k/b/m/Lady-Shopi-Blue-Velvet-Chaniya-SDL069972842-1-09775.jpg",
+          "price": "600",
+          "strikedOfprice": "1600",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "MecZZON Blue Taffeta Chaniya Choli Semi Stitched Lehenga",
+          "image": "https://n4.sdlcdn.com/imgs/j/t/v/MecZZON-Blue-Taffeta-Chaniya-Choli-SDL802321411-1-69988.jpg",
+          "price": "780",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Lady Shopi Red Velvet Chaniya Choli Semi Stitched Lehenga",
+          "image": "https://n4.sdlcdn.com/imgs/k/b/m/Lady-Shopi-Red-Velvet-Chaniya-SDL152248626-1-d214c.jpg",
+          "price": "1200",
+          "strikedOfprice": "2500",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Maroosh Pink Net Unstitched Semi Stitched Lehenga Single",
+          "image": "https://n3.sdlcdn.com/imgs/k/c/s/Maroosh-Pink-Net-Unstitched-Semi-SDL030634766-1-483a9.jpg",
+          "price": "1150",
+          "strikedOfprice": "2350",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Aika Black Net Chaniya Choli Semi Stitched Lehenga Single",
+          "image": "https://n1.sdlcdn.com/imgs/k/d/7/Aika-Black-Net-Chaniya-Choli-SDL265173587-1-f7a38.jpeg",
+          "price": "800",
+          "strikedOfprice": "1300",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "ULTRINA Pink Organza Unstitched Semi Stitched Lehenga Single",
+          "image": "https://n3.sdlcdn.com/imgs/j/v/q/ULTRINA-Pink-Organza-Unstitched-Semi-SDL471103490-1-6b70c.jpg",
+          "price": "750",
+          "strikedOfprice": "900",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "DWIDEN Blue Taffeta Chaniya",
+          "image": "https://n2.sdlcdn.com/imgs/j/t/q/DWIDEN-Blue-Taffeta-Chaniya-Choli-SDL558312298-1-835b9.jpg",
+          "price": "1350",
+          "strikedOfprice": "2350",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "KV Fashion Blue Velvet Chaniya",
+          "image": "https://n3.sdlcdn.com/imgs/k/b/t/KV-Fashion-Blue-Velvet-Chaniya-SDL200601942-1-1a117.jpg",
+          "price": "700",
+          "strikedOfprice": "1500",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Shital Fashion World White Net",
+          "image": "https://n1.sdlcdn.com/imgs/k/e/d/Shital-Fashion-World-White-Net-SDL319959856-1-cfcc9.jpg",
+          "price": "650",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Zistatva Blue,Red,Purple",
+          "image": "https://n4.sdlcdn.com/imgs/j/n/l/Zistatva-Blue-Red-Purple-Taffeta-SDL476920420-1-51553.jpg",
+          "price": "870",
+          "strikedOfprice": "1300",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "MecZZON Maroon Taffeta",
+          "image": "https://n2.sdlcdn.com/imgs/j/t/v/MecZZON-Maroon-Taffeta-Chaniya-Choli-SDL245195555-1-a0174.jpg",
+          "price": "600",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3
+        }
+      ],
+      "jeans": [
+        {
+          "name": "Sequin Crafts Cotton Single",
+          "image": "https://n3.sdlcdn.com/imgs/j/r/u/Sequin-Crafts-Cotton-Single-Harem-SDL175107354-1-d2c41.jpg",
+          "price": "799",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "PT LEGGINGS Satin Single",
+          "image": "https://n1.sdlcdn.com/imgs/j/t/l/PT-LEGGINGS-Satin-Single-Leggings-SDL991402614-1-11d6e.jpg",
+          "price": "600",
+          "strikedOfprice": "1600",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "shri hub Cotton Single Salwar",
+          "image": "https://n1.sdlcdn.com/imgs/j/l/5/shri-hub-Cotton-Single-Salwar-SDL211891489-1-7770f.jpeg",
+          "price": "780",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "PT LEGGINGS Satin Single",
+          "image": "https://n2.sdlcdn.com/imgs/j/u/t/PT-LEGGINGS-Satin-Leggings-Single-SDL538822686-1-9cb84.jpeg",
+          "price": "1200",
+          "strikedOfprice": "2500",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "shri hub Cotton Semi Patiala",
+          "image": "https://n1.sdlcdn.com/imgs/k/a/8/shri-hub-Cotton-Semi-Patiala-SDL207094736-1-3fb6c.jpg",
+          "price": "1150",
+          "strikedOfprice": "2350",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Robin Romeo Viscose Single",
+          "image": "https://n3.sdlcdn.com/imgs/j/o/w/Robin-Romeo-Viscose-Single-Leggings-SDL082559013-1-9d82a.jpeg",
+          "price": "800",
+          "strikedOfprice": "1300",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "shri hub Cotton Single Salwar",
+          "image": "https://n1.sdlcdn.com/imgs/j/p/e/shri-hub-Cotton-Single-Salwar-SDL326916172-1-2df87.jpeg",
+          "price": "750",
+          "strikedOfprice": "900",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "avinzo Cotton Patiala - Single",
+          "image": "https://n4.sdlcdn.com/imgs/j/y/b/avinzo-Cotton-Patiala-Single-SDL221675741-1-93921.jpg",
+          "price": "1350",
+          "strikedOfprice": "2350",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "ANADI Cotton Leggings - Single",
+          "image": "https://n2.sdlcdn.com/imgs/j/x/u/ANADI-Cotton-Leggings-Single-SDL216972630-1-0ff8e.png",
+          "price": "700",
+          "strikedOfprice": "1500",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "avinzo Cotton Single Semi",
+          "image": "https://n4.sdlcdn.com/imgs/j/b/0/avinzo-Cotton-Single-Semi-Patiala-SDL006049318-1-930ff.jpg",
+          "price": "650",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "avinzo Cotton Single Semi",
+          "image": "https://n2.sdlcdn.com/imgs/j/b/0/avinzo-Cotton-Single-Semi-Patiala-SDL083739661-1-da5f0.jpg",
+          "price": "870",
+          "strikedOfprice": "1300",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "HomeShop.Fashion Polyester",
+          "image": "https://n4.sdlcdn.com/imgs/j/w/k/HomeShop-Fashion-Polyester-Leggings-Single-SDL514324002-1-43ea2.jpeg",
+          "price": "600",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3
+        }
+      ]
+    },
+    "Footwear": {
+      "heels": [
+        {
+          "name": "Do Bhai Black Block Heels",
+          "image": "https://n4.sdlcdn.com/imgs/k/c/h/Do-Bhai-Black-Block-Heels-SDL584528583-1-29a97.jpeg",
+          "price": "799",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Do Bhai Gold Wedges Heels",
+          "image": "https://n3.sdlcdn.com/imgs/j/s/w/Do-Bhai-Gold-Wedges-Heels-SDL717670215-1-fa587.jpg",
+          "price": "600",
+          "strikedOfprice": "1600",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Street Style Store White",
+          "image": "https://n4.sdlcdn.com/imgs/j/w/a/Street-Style-Store-White-Block-SDL676834294-1-668da.jpg",
+          "price": "780",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Shoetopia Gray Platforms Heels",
+          "image": "https://n1.sdlcdn.com/imgs/k/b/b/Shoetopia-Gray-Platforms-Heels-SDL179920023-1-81721.jpg",
+          "price": "1200",
+          "strikedOfprice": "2500",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Blackwood Red Block Heels",
+          "image": "https://n3.sdlcdn.com/imgs/b/g/c/Blackwood-Red-Block-Heels-SDL586121384-1-caea6.jpg",
+          "price": "1150",
+          "strikedOfprice": "2350",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Feel It Gold Wedges Heels",
+          "image": "https://n4.sdlcdn.com/imgs/h/w/o/Feel-It-Gold-Wedges-Heels-SDL899242562-1-4a631.jpg",
+          "price": "800",
+          "strikedOfprice": "1300",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Street Style Store Beige",
+          "image": "https://n3.sdlcdn.com/imgs/j/y/p/Street-Style-Store-Beige-Block-SDL312948132-1-3599c.jpeg",
+          "price": "750",
+          "strikedOfprice": "900",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Rimezs Apricot Wedges Heels",
+          "image": "https://n2.sdlcdn.com/imgs/k/d/y/Rimezs-Apricot-Wedges-Heels-SDL918384275-1-9ee55.JPG",
+          "price": "1350",
+          "strikedOfprice": "2350",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Khadim's Navy Wedges Heels",
+          "image": "https://n1.sdlcdn.com/imgs/j/e/v/Khadim-s-Navy-Wedges-Heels-SDL544481358-1-e6cac.jpg",
+          "price": "700",
+          "strikedOfprice": "1500",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Rimezs Maroon Wedges Heels",
+          "image": "https://n1.sdlcdn.com/imgs/j/w/1/Rimezs-Maroon-Wedges-Heels-SDL867451393-1-fa941.jpg",
+          "price": "650",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Do Bhai Brown Wedges Heels",
+          "image": "https://n1.sdlcdn.com/imgs/j/x/x/Do-Bhai-Brown-Wedges-Heels-SDL915386484-1-c2d5e.jpg",
+          "price": "870",
+          "strikedOfprice": "1300",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Shoetopia Yellow Platforms Heels",
+          "image": "https://n3.sdlcdn.com/imgs/k/b/b/Shoetopia-Yellow-Platforms-Heels-SDL188041459-1-a58f7.jpg",
+          "price": "600",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3
+        }
+      ],
+      "flats & sandals": [
+        {
+          "name": "Street Style Store White Flats",
+          "image": "https://n4.sdlcdn.com/imgs/k/d/9/Street-Style-Store-White-Flats-SDL678817112-1-87e59.jpg",
+          "price": "799",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Aerowalk Brown Flats",
+          "image": "https://n2.sdlcdn.com/imgs/j/c/8/Aerowalk-Brown-Flats-SDL882621662-1-871cf.jpg",
+          "price": "600",
+          "strikedOfprice": "1600",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Inblu Black Flats",
+          "image": "https://n1.sdlcdn.com/imgs/i/6/9/Inblu-Black-Flats-SDL233438282-1-e1608.jpg",
+          "price": "780",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Sayera Black Flats",
+          "image": "https://n1.sdlcdn.com/imgs/j/u/q/Sayera-Black-Flats-SDL644562851-1-44fbe.jpg",
+          "price": "1200",
+          "strikedOfprice": "2500",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Aerowalk Black Flats",
+          "image": "https://n2.sdlcdn.com/imgs/j/f/g/Aerowalk-Black-Flats-SDL897205970-1-d4a17.jpeg",
+          "price": "1150",
+          "strikedOfprice": "2350",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "WALK N STYLE COLLECTION",
+          "image": "https://n2.sdlcdn.com/imgs/j/r/j/WALK-N-STYLE-COLLECTION-Beige-SDL669004326-1-7b871.jpg",
+          "price": "800",
+          "strikedOfprice": "1300",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Aerowalk Black Flats",
+          "image": "https://n1.sdlcdn.com/imgs/j/o/3/Aerowalk-Black-Flats-SDL757747069-1-86dfa.jpg",
+          "price": "750",
+          "strikedOfprice": "900",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Street Style Store Gold Flats",
+          "image": "https://n2.sdlcdn.com/imgs/j/x/6/Street-Style-Store-Gold-Flats-SDL338004288-1-b3c66.jpg",
+          "price": "1350",
+          "strikedOfprice": "2350",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Aerowalk Blue Flats",
+          "image": "https://n4.sdlcdn.com/imgs/j/r/a/Aerowalk-Blue-Flats-SDL037589925-3-6150b.jpg",
+          "price": "700",
+          "strikedOfprice": "1500",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "RAGE GAZE Green Flats",
+          "image": "https://n1.sdlcdn.com/imgs/k/a/7/RAGE-GAZE-Green-Flats-SDL753302011-1-7f3c0.png",
+          "price": "650",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Inblu Tan Flats",
+          "image": "https://n4.sdlcdn.com/imgs/j/q/7/Inblu-Tan-Flats-SDL590172766-1-50ae5.jpeg",
+          "price": "870",
+          "strikedOfprice": "1300",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Aerowalk Red Flats",
+          "image": "https://n3.sdlcdn.com/imgs/j/r/x/Aerowalk-Red-Flats-SDL332688587-1-6e843.jpeg",
+          "price": "600",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3
+        }
+      ],
+      "slipper & flipflop": [
+        {
+          "name": "Ryan Overseas White Slippers",
+          "image": "https://n2.sdlcdn.com/imgs/j/x/i/Ryan-Overseas-White-Slippers-SDL296059117-1-1467b.jpg",
+          "price": "799",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Squash Maroon Slippers",
+          "image": "https://n3.sdlcdn.com/imgs/j/w/o/Squash-Maroon-Slippers-SDL665738203-1-aa917.jpg",
+          "price": "600",
+          "strikedOfprice": "1600",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "PKKART Multi Color Pack of 2",
+          "image": "https://n3.sdlcdn.com/imgs/j/y/v/PKKART-Multi-Color-Slippers-SDL248293942-1-6fd24.jpg",
+          "price": "780",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "DOCTOR EXTRA SOFT Black",
+          "image": "https://n2.sdlcdn.com/imgs/j/l/m/DOCTOR-EXTRA-SOFT-Black-Slippers-SDL034825726-1-c863e.jpg",
+          "price": "1200",
+          "strikedOfprice": "2500",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Ailtino Red Slippers",
+          "image": "https://n1.sdlcdn.com/imgs/j/t/b/Ailtino-Red-Slippers-SDL335915655-1-b19fb.jpeg",
+          "price": "1150",
+          "strikedOfprice": "2350",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Paragon Pink Slippers",
+          "image": "https://n3.sdlcdn.com/imgs/j/x/7/Paragon-Pink-Slippers-SDL720172784-1-f921a.jpg",
+          "price": "800",
+          "strikedOfprice": "1300",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Squash Tan Slippers",
+          "image": "https://n2.sdlcdn.com/imgs/j/x/c/Squash-Tan-Slippers-SDL537183736-1-302ab.jpeg",
+          "price": "750",
+          "strikedOfprice": "900",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "DOCTOR EXTRA SOFT Blue Slides",
+          "image": "https://n2.sdlcdn.com/imgs/k/c/w/DOCTOR-EXTRA-SOFT-Blue-Slides-SDL517204461-1-d9ccb.jpg",
+          "price": "1350",
+          "strikedOfprice": "2350",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Inblu Black Slippers",
+          "image": "https://n2.sdlcdn.com/imgs/j/e/z/Inblu-Black-Slippers-SDL581767791-1-e964f.jpg",
+          "price": "700",
+          "strikedOfprice": "1500",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "PKKART Multi Color Pack of 2",
+          "image": "https://n1.sdlcdn.com/imgs/j/v/j/PKKART-Multi-Color-Slippers-SDL790290648-1-b4e0d.jpg",
+          "price": "650",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "DOCTOR EXTRA SOFT Olive Slides",
+          "image": "https://n1.sdlcdn.com/imgs/k/c/w/DOCTOR-EXTRA-SOFT-Olive-Slides-SDL560549818-1-10be3.jpg",
+          "price": "870",
+          "strikedOfprice": "1300",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "Do Bhai Blue Slides",
+          "image": "https://n2.sdlcdn.com/imgs/j/p/3/Do-Bhai-Blue-Slides-SDL810654226-1-e2aac.jpg",
+          "price": "600",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3
+        }
+      ]
+    },
+    "western wear": {
+      "Dresses": [],
+      "Tops & Tunics": [],
+      "T-Shirts": [],
+      "Pants & Palazzos": []
+    },
+    "Winter wear": {
+      "Jackets": [],
+      "Sweatshirts": [],
+      "Sweaters": [],
+      "Thermals": []
+    }
   }
 }
