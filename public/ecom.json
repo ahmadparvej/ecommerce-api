@@ -533,7 +533,7 @@
   "Women's Fashion": {
     "icon": "https://i2.sdlcdn.com/img/leftnavicon09/30x30home_living2.png",
     "title": "Women's Fashion",
-    "Clothing": [
+    "Clothing":
       {
         "saree": [
           {
@@ -927,11 +927,10 @@
             "id": 3
           }
         ]
-      }
-    ],
-    "Footwear": [
+      },
+    "Footwear":
       {
-        "heels": [
+        "heels":[
           {
             "name": "Do Bhai Black Block Heels",
             "image": "https://n4.sdlcdn.com/imgs/k/c/h/Do-Bhai-Black-Block-Heels-SDL584528583-1-29a97.jpeg",
@@ -1028,9 +1027,7 @@
             "rating": "4.5",
             "id": 3
           }
-        ]
-      },
-      {
+        ],
         "flats & sandals": [
           {
             "name": "Street Style Store White Flats",
@@ -1128,9 +1125,7 @@
             "rating": "4.5",
             "id": 3
           }
-        ]
-      },
-      {
+        ],
         "slipper & flipflop": [
           {
             "name": "Ryan Overseas White Slippers",
@@ -1230,6 +1225,5 @@
           }
         ]
       }
-    ]
   }
 }
