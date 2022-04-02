@@ -4,6 +4,7 @@
     "title": "Men's Fashion",
     "FootWear": {
       "sports & shoes": [
+        ["running shoes","shoes","sport shoes"],
         {
           "name": "ASIAN White Running Shoes",
           "image": "https://n3.sdlcdn.com/imgs/i/z/e/230X258_sharpened/ASIAN-White-Running-Shoes-SDL803356221-1-9c5da.webp",
@@ -574,6 +575,7 @@
     "title": "Women's Fashion",
     "Clothing": {
       "saree": [
+        ["SAREE","sadi","woman saree"],
         {
           "name": "Bhakarwadi - Silk Blend Black With Blouse Piece ( Pack of 1 )",
           "image": "https://n2.sdlcdn.com/imgs/k/b/m/Bhakarwadi-Black-Art-Silk-Saree-SDL762653447-1-eb79c.jpg",
